@@ -8,7 +8,7 @@
  
 <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yohan Vishvajith</h1>
 <h3 align="center">BICT. (Hons) Software Engineering</h3>
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 
@@ -20,13 +20,13 @@
 
  <h3>   
   
-- 🌱 I’m currently learning &nbsp; <b> **Java, Sring Boot , Angular** </b>
+- 🌱 I’m currently learning &nbsp; <b> **Cyber Security, Sring Boot, Angular, Devops(AWS,Google Cloud,....)** </b>
 
-- 💬 Ask me about &nbsp; **Java**
+- 💬 Staytune with me to  &nbsp; **Better Future**
 
 - 📫 How to reach me &nbsp; **navodlakshanperera@gmail.com**
 
-- ⚡ Fun fact &nbsp; **I am funny and happy**
+- ⚡ Best Thing is &nbsp; **I am Ultimate Tech Lover**
 
 </h3>
 
