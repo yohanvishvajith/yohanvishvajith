@@ -100,8 +100,8 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://github.com/navodlakshan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&stroke=0000&background=1B0A2A"/>
+    <a href="https://github.com/yohanvishvajith/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yohan vishvajith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanvishvajith&theme=black-ice&stroke=0000&background=1B0A2A"/>
     </a>
 </p>
 <br/>
@@ -112,7 +112,7 @@
     <a href="https://github.com/yohanvishvajith/github-readme-stats"><img alt="yohanvishvajith Github Stats" src="https://github-readme-stats.vercel.app/api?username=yohanvishvajith&show_icons=true&count_private=true&theme=react&bg_color=0F022A&border_color=18d26e&border_size=5px" /></a>
   </p></br>
   <p align="center">
-    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A&border_color=18d26e" /></a>
+    <a href="https://github.com/yohanvishvajith/github-readme-stats"><img alt="yohan vishvajith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanvishvajith&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A&border_color=18d26e" /></a>
   </p>
   <br/>
 
@@ -120,12 +120,12 @@
 
 <p align="center">
     
-![Navod Lakshan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=navodlakshan&custom_title=Navod_Lakshan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=18d26e&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true)
+![yohan vishvajith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=yohanvishvajith&custom_title=yohanvishvajith's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=18d26e&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true)
 
 </p>
 <h2> ❤ Views and Followers:</h2>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=navodlakshan">
+    <img src="https://komarev.com/ghpvc/?username=yohanvishvajith">
 </a> &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/navodlakshan?tab=followers"><img src="https://img.shields.io/github/followers/navodlakshan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/yohanvishvajith?tab=followers"><img src="https://img.shields.io/github/followers/yohanvishvajith?label=Followers&style=social" alt="GitHub Badge"></a>
