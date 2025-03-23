@@ -109,7 +109,7 @@
 <h2> 📊 My Github Stats:</h2>
 
   <p align="center">
-    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navodlakshan&show_icons=true&count_private=true&theme=react&bg_color=0F022A&border_color=18d26e&border_size=5px" /></a>
+    <a href="https://github.com/yohanvishvajith/github-readme-stats"><img alt="yohanvishvajith Github Stats" src="https://github-readme-stats.vercel.app/api?username=yohanvishvajith&show_icons=true&count_private=true&theme=react&bg_color=0F022A&border_color=18d26e&border_size=5px" /></a>
   </p></br>
   <p align="center">
     <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A&border_color=18d26e" /></a>
