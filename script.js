@@ -184,3 +184,29 @@ ScrollReveal().reveal('.about-img,.fillter-buttons,.contact-info', {origin: "lef
 ScrollReveal().reveal('.about-content,.skills', {origin: "right"});
 ScrollReveal().reveal('.allServices,.portfolio-gallery,.blog-box,footer,.img-hero', {origin: "bottom"});
 
+const btn = document.getElementById('button');
+
+document.getElementById('form')
+  .addEventListener('submit', function(event) {
+    event.preventDefault();
+      
+btn.disabled = true; // Disable the button
+
+setTimeout(() => {
+    btn.disabled = false; // Re-enable the button after 7 seconds
+}, 7000); 
+
+    btn.value = 'Sending...';
+
+    const serviceID = 'service_t7f6h43';
+    const templateID = 'template_7n2puyj';
+
+    emailjs.sendForm(serviceID, templateID, this)
+      .then(() => {
+        btn.value = 'Send Email';
+        alert('Send Email Successfully!!')
+      }, (err) => {
+        btn.value = 'Send Email';
+        alert(JSON.stringify(err));
+      });
+  });
