@@ -24,7 +24,7 @@
 
 - 💬 Staytune with me to  &nbsp; **Better Future**
 
-- 📫 How to reach me &nbsp; **navodlakshanperera@gmail.com**
+- 📫 How to reach me &nbsp; **yohanvishvajith@gmail.com**
 
 - ⚡ Best Thing is &nbsp; **I am Ultimate Tech Lover**
 
