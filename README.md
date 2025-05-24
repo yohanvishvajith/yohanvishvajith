@@ -105,8 +105,7 @@
     </a>
 </p>
 <br/>
-
-<h2> 📊 My Github Stats:</h2>
+<!-- <h2> 📊 My Github Stats:</h2>   
 
   <p align="center">
     <a href="https://github.com/yohanvishvajith/github-readme-stats"><img alt="yohanvishvajith Github Stats" src="https://github-readme-stats.vercel.app/api?username=yohanvishvajith&show_icons=true&count_private=true&theme=react&bg_color=0F022A&border_color=18d26e&border_size=5px" /></a>
@@ -129,3 +128,4 @@
     <img src="https://komarev.com/ghpvc/?username=yohanvishvajith">
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/yohanvishvajith?tab=followers"><img src="https://img.shields.io/github/followers/yohanvishvajith?label=Followers&style=social" alt="GitHub Badge"></a>
+-->
