@@ -480,6 +480,13 @@ section{
     position: relative;
 }
 
+.services-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
 .main-text{
     width: 100%;
     text-align: center;
@@ -514,7 +521,7 @@ section{
     text-align: center;
 }
 
-.servicesItem2{width: 300px; /* Fixed width for all cards */
+.servicesItem2{width: 350px; /* Fixed width for all cards */
 height: 450px; /* Fixed height for consistency */
 box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0,
             rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
@@ -524,8 +531,10 @@ background: var(--gradient-white-bg2);
 text-align: justify; /* Justify the text */
 display: flex;
 flex-direction: column;
-justify-content: space-between;}
-
+}
+.servicesItem2 h3{
+    text-align: left  ;
+}
 .icon-services{
     display: inline-flex;
     position: relative;
@@ -537,7 +546,7 @@ justify-content: center;
 align-items: center;
 font-size: 40px;
 color: #2e86de; /* or any color you prefer */
-margin-bottom: 15px;}
+}
 
 .icon-services i{
     box-shadow: rgba(0,0,0,0.1)0px 1px 3px 0,
