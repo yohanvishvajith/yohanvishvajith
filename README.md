@@ -18,17 +18,20 @@
 
 <h2> 🙋‍♂️ About Me:</h2>
 
- <h3>   
-  
-- 🌱 I’m currently learning &nbsp; <b> **Cyber Security, Sring Boot, Angular, Devops(AWS,Google Cloud,....)** </b>
+<h3>   
 
-- 💬 Staytune with me to  &nbsp; **Better Future**
+- 🌱 I’m currently learning &nbsp; <b> Cyber Security, Spring Boot, Angular, DevOps (AWS, Google Cloud, ...)</b>
 
-- 📫 How to reach me &nbsp; **yohanvishvajith@gmail.com**
+- 💻 I’m working on &nbsp; <b>Full-stack web applications, RESTful APIs, and automation tools</b>
 
-- ⚡ Best Thing is &nbsp; **I am Ultimate Tech Lover**
+- 📚 I’m exploring &nbsp; <b>System Design, Microservices Architecture, and Containerization (Docker, Kubernetes)</b>
+
+- 🧠 I’m passionate about &nbsp; <b>Problem Solving, Clean Code, and Scalable Software Development</b>
+
+- 📫 How to reach me &nbsp; <b>yohanvishvajith@gmail.com</b>
 
 </h3>
+
 
 <br/>
 
